@@ -1,0 +1,6 @@
+parkara-bot/
+├── index.js
+├── package.json
+├── .env.example
+├── .gitignore
+└── README.md
